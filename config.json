@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfncrypt",
+        "uuid": 17488887,
+        "checksum": "5wdqys"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
